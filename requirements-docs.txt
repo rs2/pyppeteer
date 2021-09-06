@@ -1,3 +1,4 @@
 sphinx>=1.6,<1.8
 sphinxcontrib-asyncio
 m2r
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
