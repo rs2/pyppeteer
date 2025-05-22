@@ -1,2 +1,2 @@
 syncer
-tornado>=5
+tornado>=6.5
